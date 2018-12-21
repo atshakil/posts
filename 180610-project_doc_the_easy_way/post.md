@@ -99,7 +99,7 @@ $ npm start
 
 Docusaurus will attempt to start the application at port `3000` and open it on the default browser. If default port is unavailable, the next available port will be used.
 
-![](https://images.viblo.asia/7bfc96c0-37b0-4c1b-b7da-2d7e2de609a4.png)
+![](resources/7bfc96c0-37b0-4c1b-b7da-2d7e2de609a4.png)
 
 The development server supports live reload. Any change you make to a doc or blog file, will be reflected to the open browser tabs. But, please note that, changes to the application configuration files (e.g. `siteConfig.js`) requires a server restart to take effect.
 
